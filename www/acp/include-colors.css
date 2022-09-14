@@ -1,0 +1,33 @@
+/* Light Light*/
+ul.buttons li, li.icon32x32, li.locked li:hover, tr.color2 td, div.popup{
+	background-color: #7BD2C9;
+}
+
+/* Dark Dark */
+div#main, tr.color2 td, tr.color1 td, tr td, div#navigation_title, div#options_title, div#topbar, div#functions_title, div#navigation, div.popup, div.popup_title, div.popup_ok, div.popup_cancel{
+	border-color: black;
+}
+
+tr, input, th select, th option, select, option, textarea, div.popup_message, div .description, h2, #login_button{
+	color: black;
+}
+
+tr:hover td.color1, tr:hover td.color2, tr.color3 td, th, .th, div#navigation_title, div#options_title, div#functions_title, div#topbar, div.popup_title, div.popup_ok, div.popup_cancel, div#footer, div#footer a, #login_form td{
+	color: white;
+}
+
+/* Dark Light */
+body, tr.color3 td, li.icon32x32:hover, li.icon32x32:active, td.clear, tr.color2:hover td, tr.color1:hover td, div#navigation_title, div#topbar, div#options_title, div#functions_title, div#functions, div#options, div.popup_title, div.popup_ok, div.popup_cancel{
+	background-color: #3D5B59;
+}
+
+
+/* Light Dark*/
+div#navigation, div#options, div#functions, div#topline1, tr td, tr.color1 td{
+	background-color: #0FB6A2;
+}
+
+div#companylogo{
+	left: 15px;
+	top: 40px;
+}

@@ -1,0 +1,57 @@
+body {
+	background-image: url(http://i.imgur.com/hlzI6Va.png);
+	font-family: arial;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	color: black;
+	margin: 0px;
+	font: 1em;
+	height: auto;
+	width: auto;
+	padding: 0px;
+}
+
+#banner {
+	background-image: url(http://i.imgur.com/wFlMHxV.png);
+	border-color: black;
+	 background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid black;    
+    height: 350px;
+
+}
+
+#footertemp {
+	font-family: sans-serif;
+	font-size: 24px;
+	text-align: center;
+	background-image: url(http://i.imgur.com/H9Swbf7.png);
+	box-shadow: 5px;
+	color: black;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#navbar {
+	color: blue;
+}
+
+#main_section {
+	background-image: url(http://i.imgur.com/6aJxrbA.png);
+	padding: 30px;
+
+}
+
+
+
+#post {
+	font-size: 10px;
+}
+
+.
+
+a{
+	color: blue;
+}

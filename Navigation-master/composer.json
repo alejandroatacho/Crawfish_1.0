@@ -1,0 +1,41 @@
+{
+    "name": "graham-campbell/navigation",
+    "description": "Navigation Is A Navigation Bar Generator For Laravel 5",
+    "keywords": ["laravel", "framework", "navigation generator", "navigation", "navigation bar", "Navigation", "Laravel Navigation", "Laravel-Navigation", "Graham Campbell", "GrahamCampbell"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Graham Campbell",
+            "email": "graham@alt-three.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/contracts": "5.0.*|5.1.*",
+        "illuminate/http": "5.0.*|5.1.*",
+        "illuminate/support": "5.0.*|5.1.*"
+    },
+    "require-dev": {
+        "graham-campbell/testbench": "~2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "GrahamCampbell\\Navigation\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "GrahamCampbell\\Tests\\Navigation\\": "tests/"
+        }
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.1-dev"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
